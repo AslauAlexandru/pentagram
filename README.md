@@ -3,6 +3,11 @@
 ## Getting Started
 
 First, clone the GitHub repository:
+```bash
+git clone https://github.com/team-headstart/pentagram.git
+```
+
+or 
 
 ```bash
 git clone https://github.com/team-headstart/pentagram.git
