@@ -1,5 +1,5 @@
 '''
-# before start to remove the comments from start start comment and the end comment to get started
+# before start to run the Pentagram: Realtime Image Diffusion app, please remove the start comment and the end comment and run this script
 # do this script in separate repository or in other project and you can add to your Pentagram: Realtime Image Diffusion repository app commented like here
 # before start the running the Pentagram: Realtime Image Diffusion app
 # you need to have the following urls:
