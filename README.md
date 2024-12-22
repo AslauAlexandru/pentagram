@@ -53,6 +53,15 @@ To learn more about Next.js, take a look at the following resources:
 **From challenges I have done this challenge**:
 Ensuring the hosted image generation model operates within low-latency thresholds (<2 seconds) while handling multiple concurrent requests.
 You can check [here](https://github.com/AslauAlexandru/pentagram/blob/main/pentagram-modal-python/text_to_image.py) and this is the name of script ``` text_to_image.py ```.
+## Example of .env 
+.env example:
+```
+API_KEY=MODAL_API_KEY or other API_KEY 
+API_KEY="your_api_key" 
+BLOB_READ_WRITE_TOKEN="your_vercel_blob_rw_token"
+
+```
+
 # Project statement
 
 For this project, you are tasked with building an Instagram clone, 
