@@ -52,7 +52,7 @@ To learn more about Next.js, take a look at the following resources:
 ## From challenges
 **From challenges I have done this challenge**:
 Ensuring the hosted image generation model operates within low-latency thresholds (<2 seconds) while handling multiple concurrent requests.
-``` text_to_image.py ```
+You can check [here]() and this is the name of script ``` text_to_image.py ```.
 # Project statement
 
 For this project, you are tasked with building an Instagram clone, 
