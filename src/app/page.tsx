@@ -1,3 +1,14 @@
+"use server";
+
+import ImageGenerator from "./components/ImageGenerator";
+import { generateImage } from "./actions/generateImage";
+
+export default async function Home() {
+  return <ImageGenerator generateImage={generateImage} />;
+}
+
+
+/*
 "use client";
 
 import { useState } from "react";
@@ -33,7 +44,7 @@ export default function Home() {
     // TODO: Update the UI here to show the images generated
     
     <div className="min-h-screen flex flex-col justify-between p-8">
-      <main className="flex-1">{/* Main content can go here */}</main>
+      <main className="flex-1">{/* Main content can go here *//*}</main>
 
       <footer className="w-full max-w-3xl mx-auto">
         <form onSubmit={handleSubmit} className="w-full">
@@ -59,3 +70,7 @@ export default function Home() {
     </div>
   );
 }
+*/
+
+
+
