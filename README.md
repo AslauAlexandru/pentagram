@@ -79,32 +79,23 @@ ensure low latency for a smooth user experience.
 
 **Resources**:
 
-[Getting started with Modal]
-(https://modal.com/docs/examples/hello_world)
+[Getting started with Modal](https://modal.com/docs/examples/hello_world)
 
-[Building an Image Generation Pipeline on Modal]
-(https://www.youtube.com/watch?v=sHSKArbiKmU)
+[Building an Image Generation Pipeline on Modal](https://www.youtube.com/watch?v=sHSKArbiKmU)
 
-[Run Stable Diffusion as a CLI, API, and web UI]
-(https://modal.com/docs/examples/text_to_image)
+[Run Stable Diffusion as a CLI, API, and web UI](https://modal.com/docs/examples/text_to_image)
 
-[Midjourney Examples]
-(https://www.midjourney.com/explore?tab=top)
+[Midjourney Examples](https://www.midjourney.com/explore?tab=top)
 
-[NVIDIA GPU Comparison]
-(https://www.digitalocean.com/community/tutorials/h100_vs_other_gpus_choosing_the_right_gpu_for_your_machine_learning_workload)
+[NVIDIA GPU Comparison](https://www.digitalocean.com/community/tutorials/h100_vs_other_gpus_choosing_the_right_gpu_for_your_machine_learning_workload)
 
-[Modal Playground]
-(https://modal.com/playground/get_started)
+[Modal Playground](https://modal.com/playground/get_started)
 
-[Modal Cold Start Guide]
-(https://modal.com/docs/guide/cold-start)
+[Modal Cold Start Guide](https://modal.com/docs/guide/cold-start)
 
-[Image Generation Models]
-(https://huggingface.co/models?pipeline_tag=text-to-image)
+[Image Generation Models](https://huggingface.co/models?pipeline_tag=text-to-image)
 
-[Modal Web Endpoints]
-(https://modal.com/docs/guide/webhooks)
+[Modal Web Endpoints](https://modal.com/docs/guide/webhooks)
 
 
 
