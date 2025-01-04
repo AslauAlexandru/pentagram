@@ -1,3 +1,4 @@
+# Week 8 Headstarter Accelerator Project 8 Pentagram Realtime Image Diffusion
 # Pentagram: Instagram, but with AI Images
 
 ## Getting Started
